@@ -2,8 +2,7 @@
     "name": "kapitancho/walnut-lang-psr-http-adapter",
     "autoload": {
         "psr-4": {
-            "Walnut\\Lang\\NativeConnector\\PsrHttp\\": "src",
-            "Walnut\\Lib\\Http\\": "wlh"
+            "Walnut\\Lang\\NativeConnector\\PsrHttp\\": "src"
         }
     },
     "authors": [
